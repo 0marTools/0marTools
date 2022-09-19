@@ -1,4 +1,4 @@
-# Bienvenue !
+# Bienvenue 👋🏽 !
 
 Je suis étudiant en réseau et télécommunication. En dehors de ca je suis niveau 8 sur [TryHackMe](https://tryhackme.com/), le niveau de cesse d'augmenter !
 
