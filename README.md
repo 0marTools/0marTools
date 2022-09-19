@@ -1,6 +1,6 @@
 # Bienvenue !
 
-Je suis un étudiant en réseau et télécommunication. En dehors de ca je suis niveau 8 sur [Try Hack Me](https://tryhackme.com/), le niveau de cesse d'augmenter !
+Je suis étudiant en réseau et télécommunication. En dehors de ca je suis niveau 8 sur [Try Hack Me](https://tryhackme.com/), le niveau de cesse d'augmenter !
 
 Il y aura peu de projets cependant il est possible que je publie des walkthroughs de CTF (sans les réponses évidemment) lorsque ces derniers sont compliqués selon moi. 
 
